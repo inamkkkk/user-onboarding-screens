@@ -1,0 +1,13 @@
+## Dart/Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.packages
+.metadata
+build/
+.DS_Store
+*.iml
+*.swp
+*~
+!/lib/assets/
+!/lib/assets/images/
